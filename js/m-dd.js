@@ -1,3 +1,7 @@
+$( window ).resize(function() {
+  
+});
+
 /*!
  * NavScroll.js
  * Version: 1.0.0
